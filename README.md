@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently a 4th Year Computer Science Student, working on Web Development Projects.
-- 🌱 I’m currently learning: Data Science
+- 🔭 I’m currently a 4th Year Computer Science Student.
+- 🌱 I’m currently learning: Cyber Security & Data Science 
 - 📫 How to reach me: <div id="badges">
 <a href="https://www.linkedin.com/in/muhammad-rohan-ahmed-979861257/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
