@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently a 4th Year Computer Science Student.
-- 🌱 I’m currently learning: Cyber Security & Data Science 
+- 🔭 I’m a Fresh Computer Science Graduate.
+- 🌱 I’m currently exploring exciting opportunities for my career. 
 - 📫 How to reach me: <div id="badges">
 <a href="https://www.linkedin.com/in/muhammad-rohan-ahmed-979861257/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -47,11 +47,13 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohanahmed2002&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohanahmed2002&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanahmed2002&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+<!--
+![](https://github-readme-stats.vercel.app/api?username=Rohanahmed2002&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohanahmed2002&theme=dark&hide_border=false)<br/>
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
  
