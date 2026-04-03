@@ -1,8 +1,8 @@
-<div id="header" align="center" width="full">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBkcWZ6N2wzaHd6NTZjZDVpdjZkOXlteHB4bWIxN3R2NDBoc3FocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="200"/>
-</div>
-<br>
-<div id="tagline" align="center"> Hi there 👋 </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBkcWZ6N2wzaHd6NTZjZDVpdjZkOXlteHB4bWIxN3R2NDBoc3FocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="30%"/>
+</p>
+
+<h1 align="center">Hi there 👋, I'm Muhammad Rohan Ahmed</h1>
 <!-- <div id="body" align="center"> -->
 
 
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m a Fresh Computer Science Graduate.
-- 🌱 I’m currently exploring exciting opportunities for my career. 
+- 💻 Fresh Computer Science Graduate.
+- 📊 Interested in Product, Analytics & AI. 
 - 📫 How to reach me: <div id="badges">
 <a href="https://www.linkedin.com/in/muhammad-rohan-ahmed-979861257/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
